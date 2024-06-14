@@ -24,11 +24,10 @@ print(result)
 ```
 
 ### 2. Text Summarization
-This module implements a Text Summarization solution using pre-trained neural networks. It effectively reduces document lengths by up to 70% while maintaining a coherence score of 90%, enhancing information retrieval efficiency.
+This module implements a Text Summarization solution using pre-trained neural networks. It effectively reduces document lengths by up to 70% while maintaining a coherence score, enhancing information retrieval efficiency.
 
 #### Key Features
 - Document length reduction by up to 70%.
-- Maintains 90% coherence score.
 - Utilizes transformer-based summarization models.
 
 #### Usage
